@@ -14,6 +14,15 @@ We envision a world where technology does not extract from the mind, but **respe
 
 > "The future of human-computer interaction is the future of human freedom."
 
+### 🔬 Current Status
+This is a living document in active development. The technology described doesn't fully exist yet - and that's precisely why we need ethical frameworks now, before capability outpaces wisdom.
+
+### 🤝 Who This Is For
+- Neural interface researchers and developers
+- Ethicists working on emerging technology
+- Accessibility advocates and neurodivergent communities
+- Anyone who believes technology should serve human flourishing
+
 ### 📢 Get Involved
 
 This is an open conversation. If you believe in designing neural interfaces that respect the soul, we invite you to:
