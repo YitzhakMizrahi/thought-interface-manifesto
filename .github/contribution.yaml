@@ -1,0 +1,30 @@
+name: Thought Contribution
+description: Propose a principle, risk, or ethical use case for thought interface tech
+title: "[Principle] Add your summary here"
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: What are you proposing?
+      description: Describe the new principle, risk, or use case.
+      placeholder: e.g. A new guideline for emotional transparency handling.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Why does this matter?
+      description: Explain the risk, opportunity, or benefit it addresses.
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Urgency
+      description: Is this happening now, emerging soon, or theoretical?
+      options:
+        - Urgent (happening now)
+        - Emerging (likely within 2–5 years)
+        - Theoretical (future-oriented or speculative)
+    validations:
+      required: true
